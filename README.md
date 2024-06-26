@@ -28,4 +28,5 @@ link: https://drive.google.com/drive/folders/1TcY-HT6eT0UDZa6XrhTnJXR-4zkdJW-x?u
 ![image](https://github.com/antonynishioj/Mango-fruit-disease-detection-using-CNN/assets/157102286/45746130-fa98-4bca-ad21-4fb6c3ee533c) <br />
 <br />
 ## UI :<br />
+shows the disease and the corespondong accuracy <br />
 ![image](https://github.com/antonynishioj/Mango-fruit-disease-detection-using-CNN/assets/157102286/d0bb77bf-29ca-4334-afae-40333a890180)
